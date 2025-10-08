@@ -1,3 +1,46 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "user-avatar",
+      "description": "User avatar",
+      "imageUrl": "https://picsum.photos/seed/user-avatar/36/36",
+      "imageHint": "person face"
+    },
+    {
+      "id": "mod-avatar-1",
+      "description": "Moderation user avatar 1",
+      "imageUrl": "https://picsum.photos/seed/mod-avatar-1/32/32",
+      "imageHint": "person face"
+    },
+    {
+      "id": "mod-avatar-2",
+      "description": "Moderation user avatar 2",
+      "imageUrl": "https://picsum.photos/seed/mod-avatar-2/32/32",
+      "imageHint": "person face"
+    },
+    {
+      "id": "mod-avatar-3",
+      "description": "Moderation user avatar 3",
+      "imageUrl": "https://picsum.photos/seed/mod-avatar-3/32/32",
+      "imageHint": "person face"
+    },
+    {
+      "id": "cmd-avatar-1",
+      "description": "Command user avatar 1",
+      "imageUrl": "https://picsum.photos/seed/cmd-avatar-1/32/32",
+      "imageHint": "person face"
+    },
+    {
+      "id": "cmd-avatar-2",
+      "description": "Command user avatar 2",
+      "imageUrl": "https://picsum.photos/seed/cmd-avatar-2/32/32",
+      "imageHint": "person face"
+    },
+    {
+      "id": "cmd-avatar-3",
+      "description": "Command user avatar 3",
+      "imageUrl": "https://picsum.photos/seed/cmd-avatar-3/32/32",
+      "imageHint": "person face"
+    }
+  ]
 }
